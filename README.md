@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me @ paulshinjinee@gmail.com
 
 <!---
 ShinjineePaul/ShinjineePaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
