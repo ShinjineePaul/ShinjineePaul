@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShinjineePaul
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,Java and C
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ paulshinjinee@gmail.com
